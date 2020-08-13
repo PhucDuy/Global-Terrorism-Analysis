@@ -1,4 +1,10 @@
-# VietnameseHandWritingClassification
+# Global terrorism analysis
+This is my weekly project in coderschool. I took a dataset on Kaggle and analysis it. 
+On this project, I used pandas to analysis and matplotlib to visualize the information. 
+
+## Data studio version:
+https://datastudio.google.com/reporting/7f452591-b3e5-4794-a9a8-355ac750a787
+
 ## What is your data about?
 Information on 180,000 terrorist attacks Around the world from 1970 through 2017.
     - It includes systematic data on domestic as well as international terrorist.
